@@ -4,14 +4,14 @@
 
 <br>
 <p align="center">
-  Hi, I'm Ekrem, Web Developer/Coder  <img alt="coder" title="coder" height="25" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/coder.png">,  Learner 👨‍💻 &  Teacher 🦸‍♂️ from Türkiye TR
+  Hi, I'm Ekrem, Web Developer/Coder  <img alt="coder" title="coder" height="15" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/coder.png">,  Learner 👨‍💻 &  Teacher 🦸‍♂️ from Türkiye TR
   <br>
   <br>
   🎓 Completed my masters degree from <a href="https://www..bartin.edu.tr/"> Bartın Uni.</a>
   <br>
   💻 I love to learn new technologies and frameworks.
   <br>
-  🧑‍💼 I’m currently working as Flutter  developer at <a href="https://www.codezeros.com/"> CODEZEROS </a>
+  🧑‍💼 I’m currently working as web and mobile developer at <a href="http://www.mebih.com/"> MEBIH </a>
   <br>
 </p>
 
