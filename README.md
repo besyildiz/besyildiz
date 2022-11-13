@@ -13,6 +13,9 @@
   <br>
   🧑‍💼 I’m currently working as web and mobile developer at <a href="http://www.mebih.com/"> MEBIH </a>
   <br>
+  
+  🌱 📫💬I am interesting on artificial intelligent, machine learning, learning analytics and learning management systems🔭
+  <br>
 </p>
 
 
