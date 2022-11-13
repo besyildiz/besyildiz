@@ -29,6 +29,11 @@
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/306dedb9426f1d93a981d305a0a18164932ece8dca4d5fd820b1d3c36625b218/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667"><img alt="material-ui" title="material-ui" height="25" src="https://camo.githubusercontent.com/306dedb9426f1d93a981d305a0a18164932ece8dca4d5fd820b1d3c36625b218/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667" data-canonical-src="https://mui.com/static/logo.svg" style="max-width: 100%;"></a></code>
 </p>
 
+<hr>
+<p dir="auto"><a href="https://github.com/besyildiz"><img src="https://activity-graph.herokuapp.com/graph?username=besyildiz" alt="Github activity graph" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=besyildiz&amp;theme=react-dark&amp;hide_border=true&amp;color=BDDFFF&amp;line=6E93B5&amp;point=BDDFFF" style="max-width: 100%;"></a></p>
+
+
+
 
 - 👋 Hi, I’m @besyildiz. My name is Ekrem.
 - 👀 I’m interested in mobile programming, machine learning and learning management systems
