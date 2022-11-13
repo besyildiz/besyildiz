@@ -13,12 +13,7 @@
 <code><img alt="javascript" title="javascript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img alt="nodejs" title="nodejs" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img alt="asp.net" title="asp.net" height="20" src="https://github.com/besyildiz/besyildiz/blob/main/.github/harici/asp_net.png"></code>
- 
-  <code><img alt="C#" title="C#" height="20" src="  https://github.com/besyildiz/besyildiz/blob/main/.github/harici/c__.png"></code>
-
-
-  
-  
+ <code><img alt="C#" title="C#" height="20" src="https://github.com/besyildiz/besyildiz/blob/main/.github/harici/c__.png"></code>
 <code><img alt="bootstrap" title="bootstrap" height="20" src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/bootstrap.png"></code>
 <code><img alt="firebase" title="firebase" height="20" src="https://github.com/tkswann2/tech-logos/blob/master/firebase.png?raw=true"></code>
 <code><img alt="github" title="github" height="20" src="https://github.com/tkswann2/tech-logos/blob/master/github.png?raw=true"></code>
