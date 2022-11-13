@@ -1,39 +1,9 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@besyildiz 
-j-j-gajjar
-/
-j-j-gajjar
-Public
-Code
-Issues
-Pull requests
-Discussions
-Actions
-Projects
-Security
-Insights
-j-j-gajjar/README.md
-@j-j-gajjar
-j-j-gajjar Update README.md
-Latest commit d15d854 on Jun 11
- History
- 2 contributors
-@j-j-gajjar@Raj-Gandhi
-59 lines (40 sloc)  4.62 KB
-
-<h1 align="center">Hi <img height="30" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Jay </h1>
+<h1 align="center">Hi <img height="30" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Ekrem </h1>
 <p align="center">Flutter Developer And MERN Stack Developer</p>
 
 <p align='center'> 
-  <a href="https://www.instagram.com/_j_j_gajjar/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jay-gajjar-04/"><img height="40" src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/egulcu/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mehterli/"><img height="40" src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png"></a>&nbsp;&nbsp;
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
@@ -57,7 +27,7 @@ Latest commit d15d854 on Jun 11
 <code><img alt="material-ui" title="material-ui" height="25" src="https://mui.com/static/logo.svg"></code>
 <hr>
 
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=j-j-gajjar&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/j-j-gajjar)
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=besyildiz&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/besyildiz)
 
 
 <br/>
@@ -85,20 +55,3 @@ Latest commit d15d854 on Jun 11
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fj-j-gajjar%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://jaygajjar.tk)
-
-
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-j-j-gajjar/README.md at master · j-j-gajjar/j-j-gajjar
