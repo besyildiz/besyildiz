@@ -4,7 +4,7 @@
 
 <br>
 <p align="center">
-  My name is Ekrem, Web Developer/Coder  <img alt="coder" title="coder" height="15" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/coder.png">,  Learner 👨‍💻 &  Teacher 🦸‍♂️ from Türkiye TR
+  My name is Ekrem, Web Developer/Coder <img alt="coder" title="coder" height="15" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/coder.png">,  Learner 👨‍💻 &  Teacher 🦸‍♂️ from Türkiye TR
   <br>
   <br>
   🎓 Completed my masters degree from <a href="https://www..bartin.edu.tr/"> Bartın Uni.</a>
