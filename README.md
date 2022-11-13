@@ -26,6 +26,10 @@
 <code><img alt="material.io" title="material.io" height="20" src="https://34epjf3lzxqsddc2k3n1oj77-wpengine.netdna-ssl.com/wp-content/uploads/2016/12/material.io-icon.png"></code>
 <code><img alt="material-ui" title="material-ui" height="25" src="https://mui.com/static/logo.svg"></code>
   <code><img alt="visual studio professional" title="visual studio professional" height="25" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/vsp.ico"></code>
+   <code><img alt="visual studio code" title="visual studio code" height="25" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/vsc.png"></code>
+  
+  
+  
   
 <hr>
 
