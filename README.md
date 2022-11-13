@@ -1,10 +1,10 @@
-<h1 align="center">Hi <img height="30" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Ekrem </h1>
+<h1 align="center">Hi <img height="30" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=besyildiz">
 
 
 <br>
 <p align="center">
-  Hi, I'm Ekrem, Web Developer/Coder  <img alt="coder" title="coder" height="15" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/coder.png">,  Learner 👨‍💻 &  Teacher 🦸‍♂️ from Türkiye TR
+  My name is Ekrem, Web Developer/Coder  <img alt="coder" title="coder" height="15" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/coder.png">,  Learner 👨‍💻 &  Teacher 🦸‍♂️ from Türkiye TR
   <br>
   <br>
   🎓 Completed my masters degree from <a href="https://www..bartin.edu.tr/"> Bartın Uni.</a>
