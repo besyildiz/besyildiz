@@ -27,7 +27,8 @@
 <code><img alt="material-ui" title="material-ui" height="25" src="https://mui.com/static/logo.svg"></code>
   <code><img alt="visual studio professional" title="visual studio professional" height="25" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/vsp.ico"></code>
    <code><img alt="visual studio code" title="visual studio code" height="25" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/vsc.png"></code>
-  
+    <code><img alt="sql" title="sql" height="25" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/sql.png"></code>
+    <code><img alt="linq" title="linq" height="25" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/linq.png"></code>
   
   
   
