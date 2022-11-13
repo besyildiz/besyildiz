@@ -1,10 +1,10 @@
-<h1 align="center">Hi <img height="30" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Ekrem </h1>
+<h1 align="center">Hi <img height="30" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=besyildiz">
 
 
 <br>
 <p align="center">
-  Hi, I'm Ekrem, Web Developer/Coder  <img alt="coder" title="coder" height="15" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/coder.png">,  Learner 👨‍💻 &  Teacher 🦸‍♂️ from Türkiye TR
+  My name is Ekrem, Web Developer/Coder  <img alt="coder" title="coder" height="15" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/coder.png">,  Learner 👨‍💻 &  Teacher 🦸‍♂️ from Türkiye TR
   <br>
   <br>
   🎓 Completed my masters degree from <a href="https://www..bartin.edu.tr/"> Bartın Uni.</a>
@@ -22,7 +22,7 @@
 
 <p align='center'> 
   <a href="https://www.instagram.com/egulcu/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mehterli/"><img height="40" src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mehterli/"><img height="40" src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png"></a>&nbsp;&nbsp;  <a href="https://www.twitter.com/egulcu/"><img height="40" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/twitter.png"></a>&nbsp;&nbsp;
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
