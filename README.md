@@ -14,7 +14,7 @@
   🧑‍💼 I’m currently working as web and mobile developer at <a href="http://www.mebih.com/"> MEBIH </a>
   <br>
   
-  🌱 📫💬I am interesting on artificial intelligent, machine learning, learning analytics and learning management systems🔭
+  I am interesting on artificial intelligent <img alt="yapay zeka" title="yapay zeka" height="20" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/yz.png">, machine learning <img alt="makine öğrenmesi" title="makine öğrenmesi" height="20" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/mo.png">, learning analytics  <img alt="öğrenme analitikleri" title="öğrenme analitikleri" height="20" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/oa.png"> and learning management systems <img alt="öğrenme yönetim sistemi" title="öğrenme yönetim sistemi" height="20" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/oys.png"> 🔭
   <br>
 </p>
 
