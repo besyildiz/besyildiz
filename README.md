@@ -1,5 +1,24 @@
 <h1 align="center">Hi <img height="30" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Ekrem </h1>
-<p align="center">Flutter Developer And ASP.NET Developer</p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=besyildiz">
+
+
+<br>
+<p align="center">
+  Hi, I'm Ekrem, Web Developer/Coder  <img alt="coder" title="coder" height="25" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/coder.png">,  Learner 👨‍💻 &  Teacher 🦸‍♂️ from Türkiye TR
+  <br>
+  <br>
+  🎓 Completed my masters degree from <a href="https://www..bartin.edu.tr/"> Bartın Uni.</a>
+  <br>
+  💻 I love to learn new technologies and frameworks.
+  <br>
+  🧑‍💼 I’m currently working as Flutter  developer at <a href="https://www.codezeros.com/"> CODEZEROS </a>
+  <br>
+</p>
+
+
+
+
+<p align="center">Flutter and ASP.NET Developer</p>
 
 <p align='center'> 
   <a href="https://www.instagram.com/egulcu/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"></a>&nbsp;&nbsp;
