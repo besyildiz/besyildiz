@@ -62,8 +62,5 @@
 
 <br/>
 
-## Watch my contribution graph get eaten by the snake 🐍
 
-<!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-![besyildiz snake gif](https://github.com/besyildiz/besyildiz/blob/output/github-contribution-grid-snake.svg)   
- 
+
