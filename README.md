@@ -69,4 +69,7 @@
 ![snake animation](https://raw.githubusercontent.com/besyildiz/snk/output/snake.svg)
 
 
+![snake animation](https://raw.githubusercontent.com/besyildiz/snk/output/snake.svg)
+
+
 
