@@ -39,7 +39,7 @@
  <code><img alt="Python" title="Python" height="20" src="https://github.com/besyildiz/besyildiz/blob/main/.github/harici/python.png"></code>
   <code><img alt="bootstrap" title="bootstrap" height="20" src="https://raw.githubusercontent.com/tkswann2/tech-logos/master/bootstrap.png"></code>
 <code><img alt="firebase" title="firebase" height="20" src="https://github.com/tkswann2/tech-logos/blob/master/firebase.png?raw=true"></code>
-<code><img alt="github" title="github" height="20" src="https://github.com/tkswann2/tech-logos/blob/master/github.png?raw=true"></code>
+<code><img alt="github" title="github" height="20" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/github"></code>
 <code><img alt="html5" title="html5" height="20" src="https://github.com/tkswann2/tech-logos/blob/master/html5.png?raw=true"></code>
 <code><img alt="npm" title="npm" height="20" src="https://github.com/tkswann2/tech-logos/blob/master/npm.png?raw=true"></code>
 <code><img alt="mongodb" title="mongodb" height="20" src="https://raw.githubusercontent.com/mongodb-js/leaf/master/dist/mongodb-leaf_128x128.png"></code>
