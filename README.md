@@ -46,10 +46,10 @@
 <code><img alt="C++" title="C++" height="20" src="https://user-images.githubusercontent.com/11183158/43805223-f23c1250-9a6c-11e8-9677-a45e08df2d7c.png"></code> <code><img alt="Dialogflow" title="Dialogflow" height="20" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/dialogflow.jpg" /></code>  
 <code><img alt="material.io" title="material.io" height="20" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/material.png"></code>
 <code><img alt="material-ui" title="material-ui" height="20" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/materialUi.svg"></code>
-  <code><img alt="visual studio professional" title="visual studio professional" height="25" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/vsp.ico"></code>
-   <code><img alt="visual studio code" title="visual studio code" height="25" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/vsc.png"></code>   <code><img alt="anaconda" title="anaconda" height="25" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/anaconda.png"></code>
-    <code><img alt="sql" title="sql" height="25" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/sql.png"></code>
-    <code><img alt="linq" title="linq" height="25" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/linq.png"></code>
+  <code><img alt="visual studio professional" title="visual studio professional" height="20" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/vsp.ico"></code>
+   <code><img alt="visual studio code" title="visual studio code" height="20" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/vsc.png"></code>   <code><img alt="anaconda" title="anaconda" height="20" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/anaconda.png"></code>
+    <code><img alt="sql" title="sql" height="20" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/sql.png"></code>
+    <code><img alt="linq" title="linq" height="20" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/linq.png"></code>
   
   
   
