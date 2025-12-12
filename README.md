@@ -44,15 +44,10 @@
 <code><img alt="npm" title="npm" height="20" src="https://github.com/tkswann2/tech-logos/blob/master/npm.png?raw=true"></code>
 <code><img alt="mongodb" title="mongodb" height="20" src="https://raw.githubusercontent.com/mongodb-js/leaf/master/dist/mongodb-leaf_128x128.png"></code>
 <code><img alt="C++" title="C++" height="20" src="https://user-images.githubusercontent.com/11183158/43805223-f23c1250-9a6c-11e8-9677-a45e08df2d7c.png"></code>
-<code><img alt="C" title="C" height="20" src="https://camo.githubusercontent.com/6cc41155e58a4eebe7353d524da5ebb0de7aaf4fd4ad45fb9a433c8b41d38c16/68747470733a2f2f747365332e6d6d2e62696e672e6e65742f74683f69643d4f49502e7276756a594b4f546d2d2d5654334b545a775633786748614861267069643d417069"></code>
-
-  <code>
-    
+ <code>    
   <img alt="Dialogflow" title="Dialogflow" height="20" 
     src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/dialogflow.jpg">
-
-  </code>
-  
+  </code>  
 <code><img alt="material.io" title="material.io" height="20" src="https://34epjf3lzxqsddc2k3n1oj77-wpengine.netdna-ssl.com/wp-content/uploads/2016/12/material.io-icon.png"></code>
 <code><img alt="material-ui" title="material-ui" height="25" src="https://mui.com/static/logo.svg"></code>
   <code><img alt="visual studio professional" title="visual studio professional" height="25" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/vsp.ico"></code>
