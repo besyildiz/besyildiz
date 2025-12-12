@@ -43,10 +43,8 @@
 <code><img alt="html5" title="html5" height="20" src="https://github.com/tkswann2/tech-logos/blob/master/html5.png?raw=true"></code>
 <code><img alt="npm" title="npm" height="20" src="https://github.com/tkswann2/tech-logos/blob/master/npm.png?raw=true"></code>
 <code><img alt="mongodb" title="mongodb" height="20" src="https://raw.githubusercontent.com/mongodb-js/leaf/master/dist/mongodb-leaf_128x128.png"></code>
-<code><img alt="C++" title="C++" height="20" src="https://user-images.githubusercontent.com/11183158/43805223-f23c1250-9a6c-11e8-9677-a45e08df2d7c.png"></code>
-  <code>    
-  <img alt="Dialogflow" title="Dialogflow" height="20" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/dialogflow.jpg">
-  </code>  
+<code><img alt="C++" title="C++" height="20" src="https://user-images.githubusercontent.com/11183158/43805223-f23c1250-9a6c-11e8-9677-a45e08df2d7c.png"></code>  <code>    
+  <img alt="Dialogflow" title="Dialogflow" height="20" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/dialogflow.jpg">  </code>  
 <code><img alt="material.io" title="material.io" height="20" src="https://34epjf3lzxqsddc2k3n1oj77-wpengine.netdna-ssl.com/wp-content/uploads/2016/12/material.io-icon.png"></code>
 <code><img alt="material-ui" title="material-ui" height="25" src="https://mui.com/static/logo.svg"></code>
   <code><img alt="visual studio professional" title="visual studio professional" height="25" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/vsp.ico"></code>
