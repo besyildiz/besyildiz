@@ -69,7 +69,7 @@
 ![snake animation](https://raw.githubusercontent.com/besyildiz/snk/output/snake.svg)
 
 
-![snake animation](https://raw.githubusercontent.com/besyildiz/snk/output/snake.svg)
+![snake animation](https://raw.githubusercontent.com/besyildiz/snk/output/github-contribution-grid-snake-dark.svg)
 
 
 
