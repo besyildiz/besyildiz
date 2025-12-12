@@ -25,7 +25,7 @@
 
 <p align='center'> 
   <a href="https://www.instagram.com/egulcu/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mehterli/"><img height="40" src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-squircle.png"></a>&nbsp;&nbsp;  <a href="https://www.twitter.com/egulcu/"><img height="40" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/twitter.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mehterli/"><img height="40" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/linkedin.jpg"></a>&nbsp;&nbsp;  <a href="https://www.twitter.com/egulcu/"><img height="40" src="https://raw.githubusercontent.com/besyildiz/besyildiz/main/.github/harici/twitter.png"></a>&nbsp;&nbsp;
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
